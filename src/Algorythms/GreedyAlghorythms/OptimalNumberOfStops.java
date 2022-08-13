@@ -4,7 +4,7 @@ public class OptimalNumberOfStops {
 
     public static void main(String[] args) {
 
-        int[] stations = {0, 200, 375, 550, 750, 950};
+        int[] stations = {0, 200, 375, 550, 750, 950, 1200, 1300};
         System.out.println(minStops(stations, 400));
     }
 
